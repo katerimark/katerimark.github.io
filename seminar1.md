@@ -6,9 +6,9 @@
 
 * Donec ornare purus sem, at blandit velit pulvinar at. Fusce cursus lacus facilisis elit ornare, non egestas lectus euismod. Phasellus eget tortor fringilla, convallis sapien sed, aliquet purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean scelerisque nulla non ipsum pellentesque tempor. Maecenas ornare eros et nunc molestie varius. In efficitur volutpat semper. Morbi posuere erat ac ullamcorper lacinia. Vivamus bibendum sollicitudin est, vel interdum orci molestie sed. Nulla mattis congue suscipit. Curabitur tincidunt, dui quis vestibulum sollicitudin, enim nibh feugiat eros, quis laoreet lectus enim quis quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse volutpat venenatis nisl, vitae bibendum enim maximus posuere. Curabitur mattis condimentum tempor. Aliquam erat volutpat. Sed tristique tincidunt elit quis aliquet.
 
-[Lorem Ipsum Generator] (https://ru.lipsum.com/ "Lipsum")
+[Lorem Ipsum Generator](https://ru.lipsum.com/ "Lipsum")
 
-! [alt text] (https://camo.githubusercontent.com/6bbea9a9aa52b24f7d3a1d56ab7855db445180a7/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a7453797576335a5243667353443561584237763844512e706e67)
+! [alt text](https://cdn-images-1.medium.com/max/1600/1*tSyuv3ZRCfsSD5aXB7v8DQ.png "Lorem Ipsum Image")
 
 | **_Предмет_** | **_Количество_** | **_Цена_** |
 | ------------- |:----------------:| ----------:|

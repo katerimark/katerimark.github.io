@@ -8,7 +8,7 @@
 
 [Lorem Ipsum Generator](https://ru.lipsum.com/ "Lipsum")
 
-! [alt text](https://cdn-images-1.medium.com/max/1600/1*tSyuv3ZRCfsSD5aXB7v8DQ.png "Lorem Ipsum Image")
+![alt text](https://cdn-images-1.medium.com/max/1600/1*tSyuv3ZRCfsSD5aXB7v8DQ.png "Lorem Ipsum Image")
 
 | **_Предмет_** | **_Количество_** | **_Цена_** |
 | ------------- |:----------------:| ----------:|

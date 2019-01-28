@@ -1,2 +1,2 @@
 # katerimark.github.io
-Digital literacy 2019
+Digital Literacy 2019

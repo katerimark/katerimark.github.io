@@ -1,0 +1,276 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Душенька. Древняя повесть в вольных стихах</title>
+      </titleStmt>
+      <respStmt>
+        <persName>Екатерина Маркова</persName>
+        <resp>Создание TEI документа, выделение в тексте персоналий и мест</resp>
+      </respStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson type="fictional">
+          <person xml:id="01">
+            <persName>Душенька</persName>
+          </person>
+          <person xml:id="02">
+            <persName>царь, отец Душеньки</persName>
+          </person>
+          <person xml:id="03">
+            <persName>поклонники Душеньки</persName>
+          </person>
+          <person xml:id="04">
+            <persName>родня Душеньки</persName>
+          </person>
+          <person xml:id="05">
+            <persName>жители Греции</persName>
+          </person>
+          <person xml:id="06">
+            <persName>супруг Душеньки</persName>
+          </person>
+          <person xml:id="07">
+            <persName>жрецы</persName>
+          </person>
+        </listPerson>
+        <listPerson type="Greek gods">
+          <person xml:id="08">
+            <persName>Венера</persName>
+          </person>
+          <person xml:id="09">
+            <persName>Амур</persName>
+          </person>
+          <person xml:id="10">
+            <persName>Зефир</persName>
+          </person>
+          <person xml:id="11">
+            <persName>Тритон</persName>
+          </person>
+          <person xml:id="12">
+            <persName>Сирены</persName>
+          </person>
+          <person xml:id="13">
+            <persName>Флора</persName>
+          </person>
+          <person xml:id="14">
+            <persName>Фетида</persName>
+          </person>
+          <person xml:id="15">
+            <persName>Пелей, муж Фетиды</persName>
+          </person>
+          <person xml:id="16">
+            <persName>Оракул</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    «О, если б вид сей, — <person xml:id="11"><persName>он</persName></person> вещает, —
+    Остался вечно в хрустале!»
+    Но тщетно то <person xml:id="11"><persName>Тритон</persName></person> желает:
+    Исчезнет сей призрак, как сон,
+    Останется один лишь камень,
+    А в сердце лишь несчастный пламень,
+    Которым втуне тлеет он.
+    Иной, пристав к <person xml:id="08"><persName>богине</persName></person> в свиту,
+    От солнца ставит <person xml:id="08"><persName>ей</persName></person> защиту
+    И прохлаждает жаркий луч,
+    Пуская кверху водный ключ.
+    <person xml:id="12"><persName>Сирены</persName></person>, сладкие певицы,
+    Меж тем поют стихи <person xml:id="08"><persName>ей</persName></person> в честь,
+    Мешают с быльми небылицы,
+    <person xml:id="08"><persName>Ее</persName></person> стараясь превознесть.
+    Иные перед <person xml:id="08"><persName>нею</persName></person> пляшут,
+    Другие во услугах тут,
+    Предупреждая всякий труд,
+    <person xml:id="08"><persName>Богиню</persName></person> опахалом машут;
+    Другие ж на струях несясь,
+    Пышат в трудах по почте скорой
+    И от лугов, любимых <person xml:id="13"><persName>Флорой</persName></person>,
+    Подносят ей цветочну вязь.
+    Сама <person xml:id="14"><persName>Фетида</persName></person> их послала
+    Для малых и больших услуг,
+    И только для себя желала,
+    Чтоб дома был ее <person xml:id="15"><persName>супруг</persName></person>.
+    В благоприятнейшей погоде
+    Не смеют бури там пристать,
+    Одни зефиры лишь в свободе
+    <person xml:id="08"><persName>Венеру</persName></person> смеют лобызать.
+    Чудесным действием в то время,
+    Как в веяньи пшенично семя,
+    Летят обратно беглецы;
+    Зефиры, древни наглецы;
+    Иной власы ее взвевает,
+    Меж тем, открыв прелестну грудь,
+    Перестает на время дуть,
+    Власы с досадой опускает
+    И, с ними спутавшись летит.
+    Другой, неведомым языком,
+    Со вздохами и нежным криком
+    Любовь <person xml:id="08"><persName>ей</persName></person> на ухо свистит.
+    Иной, пытаясь без надежды
+    Сорвать покров других красот,
+    В сердцах вертит ее одежды,
+    И падает без сил средь вод.
+    Другой в уста и очи дует
+    И их украдкою целует.
+    Гонясь за <person xml:id="08"><persName>нею</persName></person>, волны там
+    Толкают в ревности друг друга,
+    Чтоб, вырвавшись скорей из круга,
+    Смиренно пасть к ее ногам;
+    И все в усердии <person xml:id="08"><persName>Венеру</persName></person>
+    Желают провожать в <placeName>Цитеру</placeName>.
+    Не в долгом времени пришла к <person xml:id="08"><persName>богине</persName></person> весть,
+    Которую <person xml:id="10"><persName>Зефир</persName></person> спешил скорей принесть,
+    Что бедство <person xml:id="01"><persName>Душеньки</persName></person> преходит всяку меру,
+    Что <person xml:id="01"><persName>Душенька</persName></person> уже оставлена от всех
+    И что <person xml:id="03"><persName>вздыхатели</persName></person>, как будто <person xml:id="01"><persName>ей</persName></person> в посмех,
+    От всякой встречи с <person xml:id="01"><persName>ней</persName></person> повсюду удалялись,
+    Или к <person xml:id="02"><persName>отцу ее</persName></person> во двор хотя являлись,
+    Однако в <person xml:id="01"><persName>Душеньку</persName></person> уж больше не влюблялись
+    И к <person xml:id="01"><persName>ней</persName></person> не подходили вблизь,
+    А только издали <person xml:id="01"><persName>ей</persName></person> близко поклонялись.
+    Такой чудес престранный род
+    Смутил во <placeName>Греции</placeName> <person xml:id="05"><persName>народ</persName></person>.
+    Бывали там потопы, моры,
+    Пожары, хлеба недород,
+    Войны и внутренни раздоры,
+    Но случай сей для всех был нов.
+    Сказатели различных снов
+    И вопрошатели богов
+    О том имели разны споры.
+    Иной, напутав много врак,
+    Не сказывал ни так, ни сяк;
+    Но <person xml:id="05"><persName>все</persName></person> согласно утверждали,
+    Что чуд подобных не видали
+    Во <placeName>Греции</placeName> с начала век.
+    Простой <person xml:id="05"><persName>народ</persName></person> тогда в печали
+    К <person xml:id="08"><persName>Венере</persName></person> вопиять притек:
+    «За что судьбы к <person xml:id="05"><persName>народу</persName></person> гневны?
+    За что <person xml:id="03"><persName>вздыхатели</persName></person> бежали от <person xml:id="01"><persName>царевны</persName></person>?» —
+    Известно, что ее отменная краса
+    Противные тому являла чудеса.
+    <person xml:id="08"><persName>Венера</persName></person> наконец решила всех судьбину:
+    Явила <placeName>Греции</placeName> сокрытую причину,
+    За что <person xml:is="01"><persName>царева дочь</persName></person> теряет прежню честь,
+    За что против себя воздвигла вышню месть,
+    И с видом грозным и суровым
+    <person xml:id="04"><persName>Царевым сродникам</persName></person> велела быть готовым
+    Еще к несчастьям новым,
+    Предвозвещая <person xml:id="04"><persName>им</persName></person> на будущие дни
+    Беды и страшны муки,
+    Пока <person xml:id="01"><persName>ее</persName></person> <person xml:id="04"><persName>они</persName></person>
+    Не приведут к <person xml:id="08"><persName>ней</persName></person> в руки.
+    Но <person xml:id="02"><persName>царь</persName></person> и <person xml:id="04"><persName>вся родня</persName></person>
+    Любили <person xml:id="01"><persName>Душеньку</persName></person> без меры,
+    Без <person xml:id="01"><persName>ней</persName></person> приятного не проводили дня, —
+    Могли ль предать <person xml:id="01"><persName>ее</persName></person> на мщение <person xml:id="08"><persName>Венеры</persName></person>?
+    И <person xml:id="04"><persName>все</persName></person> в единый глас
+    <person xml:id="08"><persName>Богине</persName></person> на отказ
+    Возопияли смело
+    Что то несбыточное дело.
+    Иные подняли на смех ее олтарь,
+    Другие стали горько плакать;
+    Другие ж, недослушав, такать,
+    Когда лишь слово скажет <person xml:id="02"><persName>царь</persName></person>.
+    Иные <person xml:id="01"><persName>Душеньке</persName></person> в утеху говорили,
+    Что толь особая вина
+    Для <person xml:id="01"><persName>ней</persName></person> похвальна и славна,
+    Когда, во стыд богинь <person xml:id="01"><persName>ее</persName></person> боготворили;
+    И что <person xml:id="08"><persName>Венеры</persName></person> к <person xml:id="01"><persName>ней</persName></person> и ненависть и месть
+    Ее умножат честь.
+    <person xml:id="01"><persName>Царевне</persName></person> ж те слова, хотя и лестны были,
+    Но были <person xml:id="01"><persName>ей</persName></person> милей,
+    Когда бы их сказал какой любовник <person xml:id="01"><persName>ей</persName></person>.
+    От гордости <person xml:id="01"><persName>она</persName></person> скрывала
+    Печаль свою при всех глазах
+    Но в тайне часто унывала,
+    Себя несчастной называла
+    И часто, в горестных слезах,
+    К <person xml:id="09"><persName>Амуру</persName></person> вопияла:
+    «<person xml:id="09"><persName>Амур</persName></person>, <person xml:id="09"><persName>Амур</persName></person>, <person xml:id="09"><persName>веселий бог</persName></person>!
+    За что ко мне суров и строг?
+    Давно ли все <person xml:id="01"><persName>меня</persName></person> искали?
+    Давно ли все <person xml:id="01"><persName>меня</persName></person> ласкали?
+    В победах <person xml:id="01"><persName>я</persName></person> вела часы,
+    Могла пленять, любить по воле;
+    За что теперь в несчастной доле?
+    К чему полезны <person xml:id="01"><persName>мне</persName></person> красы?
+    Беднейшая в полях пастушка
+    Себе имеет пастуха:
+    Одна лишь <person xml:id="01"><persName>я</persName></person> не с кем не дружка
+    Не быв дурна, не быв лиха!
+    Одной ли <person xml:id="01"><persName>мне</persName></person> любить зазорно?
+    Но если счастье толь упорно
+    И так судили небеса,
+    То лучше <person xml:id="01"><persName>мне</persName></person> идти в <placeName>леса</placeName>,
+    Оставить всех людей отныне
+    И кончить слезну жизнь в <placeName>пустыне</placeName>!»
+    Меж тем, как <person xml:id="01"><persName>Душенька</persName></person>, тая свою печаль
+    От всех <person xml:id="04"><persName>своих родных</persName></person> уйти сбиралась в даль,
+    <person xml:id="04"><persName>Они</persName></person> ее бедой не менее крушились
+    И сами <person xml:id="01"><persName>ей</persName></person> везде искали женихов;
+    Но всюду женихи страшились
+    Гневить <person xml:id="08"><persName>Венеру</persName></person> и богов,
+    Которы, видимо, противу согласились.
+    Никто на <person xml:id="01"><persName>Душеньке</persName></person> жениться не хотел,
+    Или никто не смел.
+    Впоследок <person xml:id="04"><persName>сродники</persName></person> советовать решились
+    Спросить <person xml:id="16"><persName>Оракула</persName></person> о будущих судьбах.
+    <person xml:id="16"><persName>Оракул</persName></person> дал ответ в порядочных стихах,
+    И к ним <person xml:id="07"><persName>жрецы-пророки</persName></person>
+    Прибавили свои для толку строки;
+    Но тем ответ сей был не мене бестолков,
+    И слово в слово был таков:
+    «<person xml:id="06"><persName>Супруг</persName></person> для <person xml:id="-1"><persName>Душеньки</persName></person>, назначенный судьбами,
+    Есть то <person xml:id="06"><persName>чудовище</persName></person>, которо всех язвит,
+    Смущает области и часто их крушит,
+    И часто рвет сердца, питаяся слезами,
+    И страшных стрел колчан имеет на плечах:
+    Стреляет, ранит, жжет, оковы налагает,
+    Коль хочет — на земли, коль хочет — в небесах,
+    И самый <placeName>Стикс</placeName> <person xml:id="06"><persName>ему</persName></person> путей не преграждает.
+    Судьбы и боги все, определяя так,
+    Сыскать <person xml:id="06"><persName>eго</persName></person> дают особо верный знак:
+    <person xml:id="01"><persName>Царевну</persName></person> пусть везут на самую вершину
+    Неведомой <placeName>горы</placeName>, <placeName>за тридесять земель</placeName>,
+    Куда еще никто не хаживал досель,
+    И там <person xml:id="01"><persName>ее</persName></person> одну оставят на судьбину,
+    На радость и на скорбь, на жизнь и на кончину».
+    Такой ответ <person xml:id="04"><persName>весь двор</persName></person> в боязнь и скорбь привел,
+    Во <person xml:id="04"><persName>всех</persName></person> сомнение и ужас произвел.
+    «О праведные боги!
+    Возможно ль, чтобы вы толико были строги?
+    И есть ли в том какая стать,
+    Чтоб <person xml:id="01"><persName>Душеньку</persName></person> навек <person xml:id="06">чудовищу</persName></person> отдать,
+    К которому никто не ведает дороги? —
+    <person xml:id="04"><persName>Родные</persName></person> тако все гласили во слезах;
+    И кои знали всяки сказки,
+    Представили себе чудовищ злых привязки,
+    И лютой смерти страх,
+    Иль в лапах, иль в зубах,
+    Где жить <person xml:id="01"><persName>ей</persName></person> будет тесно.
+    От нянек было <person xml:id="04"><persName>им</persName></person> давно не безызвестно
+    О существе таких и змеев и духов,
+    Которы широко гортани разевают,
+    И что притом у них видают
+    И семь голов, и семь рогов
+    И семь, иль более хвостов.
+    От страхов таковых <person xml:id="04"><persName>родные</persName></person> возмущались;
+    Потом, без дальних слов,
+    Зывали множеством различных голосов;
+    <person xml:id="01"><persName>Царевну</persName></person> проводить до места обещались,
+    И с <person xml:id="01"><persName>нею</persName></person> навсегда заранее прощались.
+    Не знали только где была бы та <placeName>гора</placeName>,
+    К которой <person xml:id="01"><persName>Душеньку</persName></person> отправить надлежало;
+    <person xml:id="16"><persName>Оракул</persName></person> не сказал, или сказал, но мало,
+    В какую там явиться пору,
+    И как зовут такую <placeName>гору</placeName>?
+    <placeName>Синай</placeName> или <placeName>Ливан</placeName>, иль <placeName>Тавр</placeName>, или <placeName>Кавказ</placeName>?
+    И кои в <person xml:id="01"><persName>Душеньке</persName></person> высокий разум чтили,
+    Догадываясь, мнили,
+    Что должно ехать <person xml:id="01"><persName>ей</persName></person> конечно на <placeName>Парнас</placeName>.
+  </text>
+</TEI>

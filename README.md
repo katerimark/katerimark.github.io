@@ -2,3 +2,4 @@
 Digital Literacy 2019
 
 hw1: https://katerimark.github.io/hw1/hw1.html 
+hw2: https://github.com/katerimark/katerimark.github.io/tree/master/hw2
